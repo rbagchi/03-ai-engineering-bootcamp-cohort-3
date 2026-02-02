@@ -1,4 +1,4 @@
-# ai-engineering-bootcamp-sprint-2
+# ai-engineering-bootcamp-sprint-3
 
 We strongly recomend you coding along the videos available on Maven platform rather than just cloning the repository and running the code.
 
